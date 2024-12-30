@@ -7,7 +7,7 @@ const page = () => {
       <div className="flex flex-col items-center justify-center px-4 text-center">
         {/* Heading */}
         <h1 className="text-white text-3xl sm:text-4xl lg:text-5xl font-bold mt-12">
-          🚧 Under Development
+          🚧 Under Development...
         </h1>
         <p className="text-gray-400 text-lg sm:text-xl mt-4">
           The page you are looking for is currently under development. Please check back later!
